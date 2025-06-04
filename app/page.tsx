@@ -81,7 +81,7 @@ export default function Home() {
               </Button>
             </div>
             <div className="relative">
-              <img src='https://images.app.goo.gl/FjDNSmMDbzttviLW7' alt='...' className="aspect-square rounded-full" />
+              <img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Ftop-5-front-end-frameworks-modern-web-development-zuraiz-khan&psig=AOvVaw2z6_LMoUjdOG3U_nWUNN0T&ust=1749116533454000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJCupIG9140DFQAAAAAdAAAAABAK' alt='...' className="aspect-square rounded-full" />
             </div>
           </div>
         </div>
