@@ -81,7 +81,7 @@ export default function Home() {
               </Button>
             </div>
             <div className="relative">
-              <div  alt='...' className="aspect-square rounded-full bg-gradient-to-tr from-primary/20 to-blue-500/20 animate-pulse" />
+              <div className="aspect-square rounded-full bg-gradient-to-tr from-primary/20 to-blue-500/20 animate-pulse" />
             </div>
           </div>
         </div>
