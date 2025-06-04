@@ -11,23 +11,25 @@ export default function Home() {
   const [activeSection, setActiveSection] = useState("home");
 
   const projects = [
-    {
-      title: "Project Alpha",
+
+     {
+      title: "Ecommerce Website",
       description: "A revolutionary web application built with Next.js and TypeScript",
-      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop",
-      link: "#"
-    },
-    {
-      title: "Project Beta",
-      description: "An innovative mobile-first design system",
-      image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2370&auto=format&fit=crop",
-      link: "#"
-    },
-    {
-      title: "Project Gamma",
-      description: "AI-powered data visualization platform",
       image: "https://images.unsplash.com/photo-1551288049-bebda4e38f71?q=80&w=2370&auto=format&fit=crop",
-      link: "#"
+      link: "https://ecommerce-furniture-project.vercel.app/"
+    }
+    ,
+    {
+      title: "Data Sweeper & Integrator",
+      description: "Data Sweeper & Integrator Excel & Csv File analyzer remove duplicate Entries & Make Chart Build With Python & Streamlit",
+      image: "https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=2370&auto=format&fit=crop",
+      link: "https://growthmindsetchallenge45.streamlit.app/"
+    },
+    {
+      title: "Secure Data Encryption",
+      description: "Secure Data Encryption Build with Python & Streamlit",
+      image: "https://images.unsplash.com/photo-1460925895917-afdab827c52f?q=80&w=2426&auto=format&fit=crop",
+      link: "https://securedataencrypt45.streamlit.app/"
     }
   ];
 
@@ -100,17 +102,10 @@ export default function Home() {
                 <div>
                   <h3 className="font-semibold mb-2">Frontend</h3>
                   <ul className="space-y-2 text-muted-foreground">
+                    <li>HTML/ CSS/ JS</li>
                     <li>React / Next.js</li>
                     <li>TypeScript</li>
-                    <li>Tailwind CSS</li>
-                  </ul>
-                </div>
-                <div>
-                  <h3 className="font-semibold mb-2">Backend</h3>
-                  <ul className="space-y-2 text-muted-foreground">
-                    <li>Node.js</li>
-                    <li>PostgreSQL</li>
-                    <li>REST APIs</li>
+                    <li>Shad cn / Tailwind CSS</li>
                   </ul>
                 </div>
               </div>
